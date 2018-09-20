@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#InterfaceMemberImpliedModifier">
+		<item value="false" key="maximized"/>
+		<item value="659" key="width"/>
+		<item value="621" key="x"/>
+		<item value="89" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="403" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#LeftCurly">
+		<item value="false" key="maximized"/>
+		<item value="611" key="width"/>
+		<item value="620" key="x"/>
+		<item value="48" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="464" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#HideUtilityClassConstructor">
+		<item value="false" key="maximized"/>
+		<item value="629" key="width"/>
+		<item value="611" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#VariableDeclarationUsageDistance">
+		<item value="false" key="maximized"/>
+		<item value="1280" key="width"/>
+		<item value="0" key="x"/>
+		<item value="133" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="336" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#VisibilityModifier">
+		<item value="false" key="maximized"/>
+		<item value="1280" key="width"/>
+		<item value="0" key="x"/>
+		<item value="87" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="406" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#PackageName">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NeedBraces">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="51" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="460" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#EmptyBlock">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="63" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="441" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#LambdaParameterName">
+		<item value="false" key="maximized"/>
+		<item value="606" key="width"/>
+		<item value="674" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ModifierOrder">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ModifiedControlVariable">
+		<item value="false" key="maximized"/>
+		<item value="604" key="width"/>
+		<item value="623" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.CheckConfigurationConfigureDialog">
+		<item value="false" key="maximized"/>
+		<item value="92" key="colWidth2"/>
+		<item value="161" key="colWidth3"/>
+		<item value="70" key="colWidth0"/>
+		<item value="false" key="minimized"/>
+		<item value="139" key="colWidth1"/>
+		<item value="0" key="sortColumn"/>
+		<item value="1" key="sortDirection"/>
+		<item value="710" key="width"/>
+		<item value="570" key="x"/>
+		<item value="22" key="y"/>
+		<item value="-1" key="selectedRow"/>
+		<item value="671" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#TypeName">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="22" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="530" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#EqualsAvoidNull">
+		<item value="false" key="maximized"/>
+		<item value="680" key="width"/>
+		<item value="585" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#InnerAssignment">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MissingCtor">
+		<item value="false" key="maximized"/>
+		<item value="571" key="width"/>
+		<item value="640" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#RedundantModifier">
+		<item value="false" key="maximized"/>
+		<item value="567" key="width"/>
+		<item value="713" key="x"/>
+		<item value="81" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="414" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#AvoidInlineConditionals">
+		<item value="false" key="maximized"/>
+		<item value="602" key="width"/>
+		<item value="624" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#EmptyCatchBlock">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="164" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="290" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalToken">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="81" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="414" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#LocalVariableName">
+		<item value="false" key="maximized"/>
+		<item value="578" key="width"/>
+		<item value="702" key="x"/>
+		<item value="165" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="289" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#RightCurly">
+		<item value="false" key="maximized"/>
+		<item value="1088" key="width"/>
+		<item value="192" key="x"/>
+		<item value="48" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="464" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#StringLiteralEquality">
+		<item value="false" key="maximized"/>
+		<item value="579" key="width"/>
+		<item value="636" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#SuperClone">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#CovariantEquals">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#AbbreviationAsWordInName">
+		<item value="false" key="maximized"/>
+		<item value="639" key="width"/>
+		<item value="641" key="x"/>
+		<item value="22" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="531" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ReturnCount">
+		<item value="false" key="maximized"/>
+		<item value="744" key="width"/>
+		<item value="536" key="x"/>
+		<item value="33" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="486" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ConstantName">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="119" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="358" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#CatchParameterName">
+		<item value="false" key="maximized"/>
+		<item value="586" key="width"/>
+		<item value="694" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#FinalClass">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#OneTopLevelClass">
+		<item value="false" key="maximized"/>
+		<item value="571" key="width"/>
+		<item value="640" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.core.config.GlobalCheckConfigurationWorkingSet">
+		<item value="0" key="sortColumn"/>
+		<item value="1" key="sortDirection"/>
+		<item value="76" key="colWidth2"/>
+		<item value="-1" key="selectedRow"/>
+		<item value="30" key="colWidth3"/>
+		<item value="102" key="colWidth0"/>
+		<item value="76" key="colWidth1"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#FinalLocalVariable">
+		<item value="false" key="maximized"/>
+		<item value="566" key="width"/>
+		<item value="642" key="x"/>
+		<item value="66" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="437" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalType">
+		<item value="true" key="maximized"/>
+		<item value="false" key="minimized"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NoFinalizer">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#SuperFinalize">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalTokenText">
+		<item value="false" key="maximized"/>
+		<item value="564" key="width"/>
+		<item value="643" key="x"/>
+		<item value="34" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="485" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ArrayTrailingComma">
+		<item value="false" key="maximized"/>
+		<item value="582" key="width"/>
+		<item value="634" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MultipleVariableDeclarations">
+		<item value="false" key="maximized"/>
+		<item value="625" key="width"/>
+		<item value="613" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#DesignForExtension">
+		<item value="false" key="maximized"/>
+		<item value="1280" key="width"/>
+		<item value="0" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MutableException">
+		<item value="false" key="maximized"/>
+		<item value="640" key="width"/>
+		<item value="605" key="x"/>
+		<item value="164" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="290" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NestedTryDepth">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#OneStatementPerLine">
+		<item value="false" key="maximized"/>
+		<item value="590" key="width"/>
+		<item value="630" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#SimplifyBooleanReturn">
+		<item value="false" key="maximized"/>
+		<item value="594" key="width"/>
+		<item value="628" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#PackageDeclaration">
+		<item value="false" key="maximized"/>
+		<item value="571" key="width"/>
+		<item value="640" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MemberName">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="119" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="358" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#FallThrough">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#LocalFinalVariableName">
+		<item value="false" key="maximized"/>
+		<item value="612" key="width"/>
+		<item value="668" key="x"/>
+		<item value="65" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="438" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalInstantiation">
+		<item value="false" key="maximized"/>
+		<item value="566" key="width"/>
+		<item value="642" key="x"/>
+		<item value="65" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="438" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NoClone">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#EmptyStatement">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MissingSwitchDefault">
+		<item value="false" key="maximized"/>
+		<item value="587" key="width"/>
+		<item value="632" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#RequireThis">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#DeclarationOrder">
+		<item value="false" key="maximized"/>
+		<item value="597" key="width"/>
+		<item value="627" key="x"/>
+		<item value="118" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="359" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MethodTypeParameterName">
+		<item value="false" key="maximized"/>
+		<item value="632" key="width"/>
+		<item value="648" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ExplicitInitialization">
+		<item value="false" key="maximized"/>
+		<item value="573" key="width"/>
+		<item value="639" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MultipleStringLiterals">
+		<item value="false" key="maximized"/>
+		<item value="587" key="width"/>
+		<item value="632" key="x"/>
+		<item value="49" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="462" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#SimplifyBooleanExpression">
+		<item value="false" key="maximized"/>
+		<item value="620" key="width"/>
+		<item value="615" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ThrowsCount">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="165" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="289" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#InterfaceTypeParameterName">
+		<item value="false" key="maximized"/>
+		<item value="640" key="width"/>
+		<item value="640" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MagicNumber">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="22" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="679" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#AvoidNestedBlocks">
+		<item value="false" key="maximized"/>
+		<item value="572" key="width"/>
+		<item value="639" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#HiddenField">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="22" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="530" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ClassTypeParameterName">
+		<item value="false" key="maximized"/>
+		<item value="619" key="width"/>
+		<item value="661" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#StaticVariableName">
+		<item value="false" key="maximized"/>
+		<item value="580" key="width"/>
+		<item value="700" key="x"/>
+		<item value="119" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="358" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ParameterName">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="717" key="x"/>
+		<item value="147" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="316" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#ParameterAssignment">
+		<item value="false" key="maximized"/>
+		<item value="586" key="width"/>
+		<item value="632" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#OverloadMethodsDeclarationOrder">
+		<item value="false" key="maximized"/>
+		<item value="691" key="width"/>
+		<item value="580" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NestedIfDepth">
+		<item value="false" key="maximized"/>
+		<item value="566" key="width"/>
+		<item value="642" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalThrows">
+		<item value="false" key="maximized"/>
+		<item value="568" key="width"/>
+		<item value="641" key="x"/>
+		<item value="149" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="313" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#UnnecessaryParentheses">
+		<item value="false" key="maximized"/>
+		<item value="603" key="width"/>
+		<item value="624" key="x"/>
+		<item value="70" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="431" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#MethodName">
+		<item value="false" key="maximized"/>
+		<item value="567" key="width"/>
+		<item value="713" key="x"/>
+		<item value="103" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="381" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#EqualsHashCode">
+		<item value="false" key="maximized"/>
+		<item value="579" key="width"/>
+		<item value="636" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#IllegalCatch">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#InterfaceIsType">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#NestedForDepth">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#DefaultComesLast">
+		<item value="false" key="maximized"/>
+		<item value="566" key="width"/>
+		<item value="642" key="x"/>
+		<item value="150" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="311" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#InnerTypeLast">
+		<item value="false" key="maximized"/>
+		<item value="563" key="width"/>
+		<item value="644" key="x"/>
+		<item value="166" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="287" key="height"/>
+	</section>
+	<section name="net.sf.eclipsecs.ui.config.RuleConfigurationEditDialog#AbstractClassName">
+		<item value="false" key="maximized"/>
+		<item value="574" key="width"/>
+		<item value="706" key="x"/>
+		<item value="149" key="y"/>
+		<item value="false" key="minimized"/>
+		<item value="312" key="height"/>
+	</section>
+</section>

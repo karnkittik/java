@@ -1,0 +1,10 @@
+super.speed
+this.speed
+
+super.message()
+this.message()
+
+super() // constructor
+this()
+
+static: belong to only one class
