@@ -1,17 +1,12 @@
 public class TestAbstract {
 	public static void main(String[] args) {
-		// Shape sh = new Shape(); // Shape cannot create a new object itself.
+		//Shape sh = new Shape(); //error: Shape cannot create a new object itself.
 		Shape shape = new Circle(2.5d, "Circle A");
 		System.out.println(shape);
-		shape = new Square(4.5d, "Squre D");
-		System.out.println(shape);
-		// System.out.println(cir.toString());
-		// System.out.println("Diameter = "+cir.diameter());
-		// System.out.println(sqr.toString());
-
-		// Circle cir2 = new Circle(2.5d, "Circle B");
-		// System.out.println(cir2.toString());
-		// System.out.println("Diameter = " + cir2.diameter());
+		
+		Circle c = (Circle) shape;
+		double d = c.diameter();
+		System.out.println("Diameter: "+d);
 	}
 }
 
@@ -30,6 +25,11 @@ abstract class Shape {
 		return this.getName() + "\n\tPerimeter = " + perimeter();
 	}
 }
+abstract class Polygon extends Shape{
+	int dimension;
+	abstract int getDimension();
+	abstract double perimter(); // no need to override when use abstract of abstract
+}
 
 class Circle extends Shape {
 	double radius;
@@ -39,7 +39,7 @@ class Circle extends Shape {
 		this.name = n;
 	}
 
-	@Override
+	@Override //need to override every method extends from Shape
 	double perimeter() {
 		return 2 * Math.PI * this.radius;
 	}

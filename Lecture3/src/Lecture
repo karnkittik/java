@@ -1,2 +1,6 @@
 Abstract Method คือ No-body method ไม่มีปีกกา
--ต้องoverride abstract method
+- ต้องoverride abstract method
+- 1 file สามารถมีได้หลาย class
+
+"Parent Class" vs "Abstract Class"
+Anonymus of 
