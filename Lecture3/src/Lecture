@@ -3,4 +3,53 @@ Abstract Method คือ No-body method ไม่มีปีกกา
 - 1 file สามารถมีได้หลาย class
 
 "Parent Class" vs "Abstract Class"
-Anonymus of 
+Anonymus of inner class
+	inner class
+Abstract of Abstract
+
+Dynamic binding
+
+ArrayList
+
+Java Standrd Collections:
+	ArrayList, List
+		/*public static class MySquare extends Shape {
+		int side=5;
+		@Override
+		double perimeter() {
+			return side*5;
+			}
+		}*/
+	
+		/*int sum = 0;
+		for(int i=0;i<10;i++) {sum+=1;}System.out.println(sum); 
+		//print i ไม่ได้ ต้อง int i ไว้ข้างนอกก่อน  (variable scope)8?*/
+		
+		//Shape sh = new Shape(); //error: Shape cannot create a new object itself.
+		/*Shape shape = new Circle(2.5d, "Circle A");
+		System.out.println(shape);
+		
+		Circle c = (Circle) shape;
+		double d = c.diameter();
+		System.out.println("Diameter: "+d);*/	
+			
+		/*Shape p = new MySquare();
+		 
+		Shape s = new Shape() {
+						int side=5;
+						
+						@Override
+						double perimeter() {
+							return side*5;}	
+					}; //Anonymous inner class ไม่มีการตั้งชื่อ แต่มี body*/
+		//--------------------
+		
+
+//-----------------------------------
+
+
+
+clone 
+ต้อง override
+ต้อง try catch
+ต้องเติม implements Cloneable

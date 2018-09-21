@@ -11,6 +11,6 @@ class A1 {
 	private int x;
 
 	public A1(int i) {
-		x = i
+		x = i;
 	}
 }
