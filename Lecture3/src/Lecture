@@ -1,0 +1,2 @@
+Abstract Method คือ No-body method ไม่มีปีกกา
+-ต้องoverride abstract method
