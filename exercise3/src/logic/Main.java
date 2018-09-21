@@ -10,17 +10,15 @@ public class Main {
 		
 		Course socialEvent = new Course("fun activities") {
 
-			@Override
-			public boolean isPassed() {
-				// TODO Auto-generated method stub
-				return false;
-			}
-
-			@Override
-			public String toString() {
-				// TODO Auto-generated method stub
-				return null;
-			}
+					@Override
+					public boolean isPassed() {
+						return true;
+					}
+		
+					@Override
+					public String toString() {
+						return "(Anonymous Inner Class): "+this.getName();
+					}
 		//TO DO Q2
 		//Hint: Anonymous Inner class
 				};
