@@ -18,4 +18,5 @@ public class GradedCourse extends Course{
 		return "(GradedCourse): "+this.getName()+", score: "+this.score;
 	}
 
+	//
 }
